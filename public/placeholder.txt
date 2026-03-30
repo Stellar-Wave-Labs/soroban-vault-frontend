@@ -1,0 +1,1 @@
+Add a favicon at public/favicon.ico (binary). This repository currently includes a placeholder file; replace it with your favicon.
